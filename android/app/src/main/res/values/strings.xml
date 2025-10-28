@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">toolbox-wonder</string>
+    <string name="title_activity_main">toolbox-wonder</string>
+    <string name="package_name">app.lovable.e502c418df2442d6879206b2c64a4e13</string>
+    <string name="custom_url_scheme">app.lovable.e502c418df2442d6879206b2c64a4e13</string>
+</resources>
