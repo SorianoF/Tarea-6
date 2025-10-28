@@ -26,7 +26,7 @@ const WordPressNews = () => {
     try {
       // Using WordPress.org REST API
       const response = await fetch(
-        "https://wordpress.org/news/wp-json/wp/v2/posts?per_page=3"
+        "http://universities.hipolabs.com/" 
       );
       const data = await response.json();
       setNews(data);
